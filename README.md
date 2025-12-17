@@ -46,7 +46,7 @@ Recibe una imagen (multipart/form-data) y un parámetro de filtro. Devuelve la i
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone <TU_URL_DEL_REPO_AQUI>
+    git clone https://github.com/xni0/editor-imagenes-api.git
     cd editor-imagenes-api
     ```
 
@@ -92,3 +92,4 @@ El proyecto incluye un archivo `pruebas.http` para realizar tests directos con l
   <p>Realizado por <strong>Lucilene Vidal Lima</strong></p>
   <p>Desarrollado con 🐍 y FastAPI.</p>
 </div>
+
